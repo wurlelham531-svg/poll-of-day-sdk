@@ -1,6 +1,6 @@
 {
   "name": "poll-of-day-sdk",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "TypeScript SDK for daily on-chain polls on the Stacks blockchain — propose options, cast votes, tally results.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
